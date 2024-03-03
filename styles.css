@@ -8,11 +8,13 @@
     background-color: white;
 }
 .testimonial-text1{
-	color: white
+	color: black;
+	background-color: white;
 }
 .testimonial-author1{
     text-align: right;
     font-style: italic;
+	background-color: white;
 }
 .testimonial-box2{
     padding: 10px;
@@ -20,9 +22,11 @@
     background-color: white;
 }
 .testimonial-text2{
-	color: white
+	color: black;
+	background-color: white;
 }
 .testimonial-author2{
     text-align: right;
     font-style: italic;
+	background-color: white;
 }
