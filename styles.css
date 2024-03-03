@@ -7,6 +7,9 @@
     border: 1px solid #000;
     background-color: white;
 }
+.testimonial-text1{
+	color: white
+}
 .testimonial-author1{
     text-align: right;
     font-style: italic;
@@ -15,6 +18,9 @@
     padding: 10px;
     border: 1px solid #000;
     background-color: white;
+}
+.testimonial-text2{
+	color: white
 }
 .testimonial-author2{
     text-align: right;
